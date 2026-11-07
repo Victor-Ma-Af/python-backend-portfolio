@@ -1,0 +1,2 @@
+Servidor iniciado. 
+Erro de conexão no banco. 
