@@ -1,0 +1,4 @@
+import random
+
+crazy_numbers = [random.randint(5, 100) for _ in range(10)]
+print(crazy_numbers)
